@@ -3,7 +3,7 @@ Dating Page created in Flutter.
 
 - https://www.behance.net/gallery/151803183/Dating-app-UI-of-user-profile?tracking_source=search_projects%7Cprofile%20app
 
-- Click on Container to expand more ( ExpansionTile )
+- Click on White Container/Card to expand more ( ExpansionTile )
 
 
 ![1](https://user-images.githubusercontent.com/61762281/194351787-52c29086-3c7a-4c7e-af5a-659c141010e5.jpg)
